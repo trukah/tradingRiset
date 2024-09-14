@@ -1,8 +1,7 @@
 # tradingRiset
 Rumus yang telah Anda buat adalah:
 
-\[ \text{Sentimen} = \frac{T - C}{H - L} \]
-
+Sentimen : T - C / H-L
 Di mana:
 - \( T \) adalah harga trigger,
 - \( C \) adalah harga penutupan (close),
